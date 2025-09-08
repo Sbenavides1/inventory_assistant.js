@@ -1,7 +1,7 @@
 // Coding Challenge 02a
 
 //step 1
-let itemName = "wireless Headphones";
+let itemName = "Wireless Headphones";
 let unitCost = 59.99;
 let currentStock = 75;
 let reorderLevel = 50;
